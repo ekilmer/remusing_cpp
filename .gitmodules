@@ -1,0 +1,3 @@
+[submodule "remusing_cpp/vendor/tree-sitter-cpp"]
+	path = remusing_cpp/vendor/tree-sitter-cpp
+	url = https://github.com/tree-sitter/tree-sitter-cpp
