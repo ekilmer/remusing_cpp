@@ -60,6 +60,7 @@ out_of_range
 pair
 piecewise_construct
 round
+regex
 set
 setfill
 setprecision
