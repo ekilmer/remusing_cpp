@@ -17,7 +17,13 @@ Currently, there exists only one tool (that I know of) that can perform a simila
 
 ## Installation
 
-After cloning this repo, this tool can be installed like any other Python package
+After cloning this repo (with submodules)
+
+```shell
+git clone --recursive https://github.com/ekilmer/remusing_cpp
+```
+
+this tool can be installed like any other Python package
 
 ```bash
 python3 -m pip install .
